@@ -1,35 +1,44 @@
-![Web Developer](https://scontent.fjsr6-1.fna.fbcdn.net/v/t39.30808-6/470062328_609781531519253_9135189024537679382_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeHySJlAgfJsUWsPKzjj3MgW-4peT-nfeFL7il5P6d94UkRTmz8FIzzrHgz9SGXwahmQwPWBZyKfy02JPDXmWKIE&_nc_ohc=151RAGCmtPkQ7kNvgF0N-WX&_nc_zt=23&_nc_ht=scontent.fjsr6-1.fna&_nc_gid=A1BV7ruDAVQXAaGcqV83mCe&oh=00_AYB6WPVXzD12ArgJkuYnxCKWtnha6une6l8hv23BwldELw&oe=67917694)
-# Hi there 👋, My name is Mehedi
-#### Web Developer
+<h1 align="center">Hi 👋, I'm Mehedi</h1>
+<h3 align="center">I am a professional frontend & backend developer from Bangladesh</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi143-hasan&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi143-hasan" /> </p>
 
-I am a professional web developer, primarily working on frontend and backend development.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedi143-hasan" alt="mehedi143-hasan" /></a> </p>
 
-Skills: HTML / CSS/JavaScript
+<p align="left"> <a href="https://twitter.com/mehedisumon886" target="blank"><img src="https://img.shields.io/twitter/follow/mehedisumon886?logo=twitter&style=for-the-badge" alt="mehedisumon886" /></a> </p>
 
-- 🔭 I’m currently working on Essential Drags company limited  
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
-- 🤔 I’m looking for help with Font end and Back end  
-- 💬 Ask me about Web Developer 
-- 📫 How to reach me: By learn or by earn 
-- 😄 Pronouns: Correctly directed 
-- ⚡ Fun fact: Quick Work 
+- 🔭 I’m currently working on **JavaScript**
 
+- 🌱 I’m currently learning **JavaScript**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mehedi143-Hasan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Md.Mehedi786/)  
+- 👯 I’m looking to collaborate on **Mehedi**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 🤝 I’m looking for help with **Mehedi_daily_Work**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Mehedi143-Hasan)](https://github.com/ryo-ma/github-profile-trophy)
+- 👨‍💻 All of my projects are available at [https://github.com/Mehedi143-Hasan](https://github.com/Mehedi143-Hasan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Mehedi143-Hasan)](https://github.com/anuraghazra/github-readme-stats)
+- 📝 I regularly write articles on [https://github.com/Mehedi143-Hasan](https://github.com/Mehedi143-Hasan)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Mehedi143-Hasan&show_icons=true&count_private=true)  
+- 💬 Ask me about **react**
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Mehedi143-Hasan/contributions?format=svg&private=true)  
+- 📫 How to reach me **mehedihasan886@gmail.com**
 
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/Mehedi143-Hasan)  
+- 📄 Know about my experiences [https://github.com/Mehedi143-Hasan](https://github.com/Mehedi143-Hasan)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Mehedi143-Hasan)  
+- ⚡ Fun fact **Quick Work**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mehedisumon886" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mehedisumon886" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-mehedi-hasan-412745157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mehedi-hasan-412745157/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/md.mehedi786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.mehedi786" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehedi143-hasan&show_icons=true&locale=en&layout=compact" alt="mehedi143-hasan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehedi143-hasan&show_icons=true&locale=en" alt="mehedi143-hasan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehedi143-hasan&" alt="mehedi143-hasan" /></p>
